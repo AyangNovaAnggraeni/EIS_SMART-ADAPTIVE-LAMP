@@ -1,24 +1,3 @@
-// VOICE RECOG ONLY
-// void setup() {
-//   Serial.begin(9600);
-//   pinMode(13, OUTPUT);  // Relay terhubung ke pin 13
-//   digitalWrite(13, LOW);  // Pastikan relay mati saat awal
-// }
-
-// void loop() {
-//   if (Serial.available()) {
-//     String input = Serial.readStringUntil('\n');
-//     input.trim();
-
-//     if (input == "ON") {
-//       digitalWrite(13, LOW);  // Aktifkan relay
-//     } else if (input == "OFF") {
-//       digitalWrite(13, HIGH);   // Matikan relay
-//     }
-//   }
-// }
-
-
 // ultrasonic & voice recog
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
