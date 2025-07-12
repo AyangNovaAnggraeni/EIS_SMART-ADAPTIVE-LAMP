@@ -74,6 +74,7 @@ This is a **Smart Adaptive Lamp** project that can automatically adjust its brig
 This project was created by:
 
 - Ayang Nova Anggraeni (me)
+
 My teammates :
 - Ariella Chandra Naya
 - Erika Sita Dewi
