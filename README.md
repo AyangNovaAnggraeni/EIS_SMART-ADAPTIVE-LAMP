@@ -38,9 +38,7 @@ This is a **Smart Adaptive Lamp** project that can automatically adjust its brig
 - Python Libraries:
   ```bash
   pip install pyserial speechrecognition pyaudio
-````
 
----
 
 ## 🔁 How It Works
 
